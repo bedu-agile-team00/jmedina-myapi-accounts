@@ -1,2 +1,2 @@
-# jmedina-myapi-accounts
-Código de aplicación para MyAPI Accounts.
+# myAPI-accounts
+myAPI is the proyect used in bedu DevOps Fundamentals course
